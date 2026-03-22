@@ -40,7 +40,8 @@
 
 ### 📊 Codeofy Production Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucky6203&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="codeofy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs? username=codeofy-Studio
+&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="codeofy" />
 </p>
 
 <p>
