@@ -22,7 +22,7 @@
 <h3 align="left">Connect with the Lab:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/company/codeofy-tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codeofy linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/codeofy_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codeofy instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/codeofy.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codeofy instagram" height="30" width="40" /></a>
 <a href="https://codeofy.in" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/2563EB/globe.png" alt="website" height="28" width="30" /></a>
 </p>
 
