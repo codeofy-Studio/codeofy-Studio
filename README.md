@@ -17,7 +17,7 @@
 - 👥 **The Squad:** 15+ Active Builders | 8 Senior Architects
 - 🛠️ **Current Focus:** Scaling React/Next.js infrastructure for global SMEs
 - ⚡ **Commitment:** Building in public for 365 consecutive days
-- 📫 **Contact us:** [hello@codeofy.in](mailto:hello@codeofy.in)
+- 📫 **Contact us:** [info@codeofy.in](mailto:info@codeofy.in)
 
 <h3 align="left">Connect with the Lab:</h3>
 <p align="left">
